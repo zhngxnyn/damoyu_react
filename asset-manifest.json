@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/damoyu_react/static/css/main.253d1730.css",
-    "main.js": "/damoyu_react/static/js/main.d07a8064.js",
-    "static/js/787.d83072d6.chunk.js": "/damoyu_react/static/js/787.d83072d6.chunk.js",
+    "main.css": "/damoyu_react/static/css/main.31c3b3c1.css",
+    "main.js": "/damoyu_react/static/js/main.4b4ef9c1.js",
+    "static/js/787.71df535f.chunk.js": "/damoyu_react/static/js/787.71df535f.chunk.js",
     "static/media/team-g395942733_1920.jpg": "/damoyu_react/static/media/team-g395942733_1920.cfb7b7b534788d710be8.jpg",
     "static/media/people-ga1056f790_1920.jpg": "/damoyu_react/static/media/people-ga1056f790_1920.0b188a2f22f25b2825a7.jpg",
     "static/media/people-g9e2eac3f7_1920.jpg": "/damoyu_react/static/media/people-g9e2eac3f7_1920.8f4d30a10eac475f73a8.jpg",
     "static/media/people-g616738467_1920.jpg": "/damoyu_react/static/media/people-g616738467_1920.0e72cd76bc6ecf50ea7b.jpg",
+    "static/media/friendship-geb3529827_1920.jpg": "/damoyu_react/static/media/friendship-geb3529827_1920.1458d0f6cc3b2d6ef26a.jpg",
     "static/media/drinks-g196571e25_1920.jpg": "/damoyu_react/static/media/drinks-g196571e25_1920.23c8cd393378dfba4f35.jpg",
     "static/media/cat-g2bcab3e69_1920.jpg": "/damoyu_react/static/media/cat-g2bcab3e69_1920.ca1e6826c6d12e148112.jpg",
     "static/media/students-g72bb70bff_1920.jpg": "/damoyu_react/static/media/students-g72bb70bff_1920.7c234549b60c1df02a0f.jpg",
@@ -14,12 +15,12 @@
     "static/media/startup-g500b59503_1920.jpg": "/damoyu_react/static/media/startup-g500b59503_1920.b8a375b97a33115d18bc.jpg",
     "static/media/btnG_완성형.png": "/damoyu_react/static/media/btnG_완성형.4382736d0fcc19a758c7.png",
     "index.html": "/damoyu_react/index.html",
-    "main.253d1730.css.map": "/damoyu_react/static/css/main.253d1730.css.map",
-    "main.d07a8064.js.map": "/damoyu_react/static/js/main.d07a8064.js.map",
-    "787.d83072d6.chunk.js.map": "/damoyu_react/static/js/787.d83072d6.chunk.js.map"
+    "main.31c3b3c1.css.map": "/damoyu_react/static/css/main.31c3b3c1.css.map",
+    "main.4b4ef9c1.js.map": "/damoyu_react/static/js/main.4b4ef9c1.js.map",
+    "787.71df535f.chunk.js.map": "/damoyu_react/static/js/787.71df535f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.253d1730.css",
-    "static/js/main.d07a8064.js"
+    "static/css/main.31c3b3c1.css",
+    "static/js/main.4b4ef9c1.js"
   ]
 }
